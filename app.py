@@ -144,7 +144,7 @@ def streamlit_app():
     with col2:
         st.markdown(
             """
-            <a href="flower-recognition-from-scratch" target="_blank">
+            <a href="https://flower-rec2-km4jkbdmfrnn3zztrvyzuw.streamlit.app" target="_blank">
                 <button style="background-color: #4CAF50; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; text-decoration: underline;">
                     Flower Recognition from Scratch
                 </button>
