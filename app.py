@@ -133,7 +133,7 @@ def streamlit_app():
     with col1:
         st.markdown(
             """
-            <a href="re-trained-flower-recognition" target="_blank">
+            <a href="https://flower-rec1-gupv5c67pmw57q4nlqea4o.streamlit.app" target="_blank">
                 <button style="background-color: #4CAF50; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; text-decoration: underline;">
                     Pre-trained Flower Recognition
                 </button>
